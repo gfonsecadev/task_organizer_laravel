@@ -1,5 +1,5 @@
 # Task Organizer
-This project was built using Laravel with Laravel Ui to build the front-end of this application.
+This project was built using Laravel with Laravel UI to build the front-end of this application.
 For front-end, I used Bootstrap.  
 
 ## Some images of the application
