@@ -16,8 +16,8 @@ For front-end, I used Bootstrap.
 ### User´s all tasks page:
 ![image](https://github.com/gfonsecadev/task_organizer_laravel/assets/90278833/03ff73e5-7786-4e60-b13b-82c1962a84e6)
 
-## There is more about this app such as:
--send messages to the user's email after task creation;
--update and delete tasks;
--export task to some document format-;password recovery,etc.
+## There is more about this app such as:  
+-send messages to the user's email after task creation;  
+-update and delete tasks;  
+-export task to some document format-;password recovery,etc.  
 all using Laravel and bootstrap.
